@@ -1,0 +1,15 @@
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.exe
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.deps.json
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.runtimeconfig.json
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.dll
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.pdb
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.csproj.AssemblyReference.cache
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.AssemblyInfoInputs.cache
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.AssemblyInfo.cs
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.csproj.CoreCompileInputs.cache
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.dll
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\refint\ExemploEnum.dll
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.pdb
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.genruntimeconfig.cache
+D:\notebook\Impacta\TurmaManha\Aula3\ExemploEnum\obj\Debug\net6.0\ref\ExemploEnum.dll

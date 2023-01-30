@@ -1,0 +1,15 @@
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\bin\Debug\net6.0\Aula3.exe
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\bin\Debug\net6.0\Aula3.deps.json
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\bin\Debug\net6.0\Aula3.runtimeconfig.json
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\bin\Debug\net6.0\Aula3.dll
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\bin\Debug\net6.0\Aula3.pdb
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\Aula3.csproj.AssemblyReference.cache
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\Aula3.AssemblyInfoInputs.cache
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\Aula3.AssemblyInfo.cs
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\Aula3.csproj.CoreCompileInputs.cache
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\Aula3.dll
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\refint\Aula3.dll
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\Aula3.pdb
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\Aula3.genruntimeconfig.cache
+D:\notebook\Impacta\TurmaManha\Aula3\Aula3\obj\Debug\net6.0\ref\Aula3.dll
